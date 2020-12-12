@@ -1,7 +1,7 @@
 <?php
 
 
-namespace AndPHP;
+namespace AndPHP\LaravelApiOutput;
 
 class Output
 {
