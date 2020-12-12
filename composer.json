@@ -12,5 +12,10 @@
             "email": "10000@andphp.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Andphp\\": "src/"
+        }
+    }
 }
