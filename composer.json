@@ -1,0 +1,16 @@
+{
+    "name": "andphp/laravel-api-output",
+    "description": "laravel (>=8)",
+    "type": "library",
+    "require": {
+        "laravel/framework": ">= 8.12"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Da Xiong",
+            "email": "10000@andphp.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
