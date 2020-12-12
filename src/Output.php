@@ -1,7 +1,7 @@
 <?php
 
 
-namespace AndPHP\Library;
+namespace AndPHP;
 
 class Output
 {
